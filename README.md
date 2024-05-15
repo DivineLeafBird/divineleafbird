@@ -16,8 +16,8 @@ I'm a Junior Software Engineer with a passion for building web and mobile applic
 ### 💼 Skills
 
 - **Languages:** JavaScript, HTML, CSS, PHP
-- **Frontend:** React.js, React Native, HTML5, CSS, Tailwind CSS, Figma
-- **Backend:** Node.js, Express.js, Laravel
+- **Frontend:** React.js, Vite JS React Native, HTML5, CSS, Tailwind CSS, Figma
+- **Backend:** Node.js, Laravel
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code, Figma, Postman
 
