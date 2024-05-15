@@ -1,4 +1,4 @@
-### Hi there, I am Kassim Yahya! 
+### Hi there, I am Kassim Yahya! :wave:
 I'm a Junior Software Engineer with a passion for building web and mobile applications. My technology stack consists of React.js, Node.js, React Native, and Laravel. I also have experience in UX design using Figma.
 ### 🔭 I’m currently working on...
 
