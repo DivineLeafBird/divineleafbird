@@ -23,7 +23,7 @@ I'm a Junior Software Engineer with a passion for building web and mobile applic
 
 ### 📫 How to reach me
 
-- LinkedIn: [Kassim Yahya Ali](www.linkedin.com/in/kassim-yahya-ali-b35274184/)
+- LinkedIn: [Kassim Yahya Ali](https://www.linkedin.com/in/kassim-yahya-ali-b35274184/)
 - Email: [kassimyahya@gmail.com]
 
 ### 😄 Pronouns
