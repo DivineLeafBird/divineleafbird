@@ -1,25 +1,25 @@
 ### Hi there, I am Kassim Yahya! :wave:
-I'm a Junior Software Engineer with a passion for building web and mobile applications. My technology stack consists of React.js, Node.js, React Native, and Laravel. I also have experience in UX design using Figma.
+I'm a Junior Software Engineer with a passion for building web and mobile applications. My technology stack consists of MongoDB, Express.js, React.js, Node.js and React Native. I also have experience in IT support and UX design.
 ### 🔭 I’m currently working on...
 
 - Building responsive web applications with React
 - Developing mobile applications with React Native
-- Exploring backend development with Node.js and Laravel
+- Exploring backend development with Node.js
 
 ### 🌱 I’m currently learning...
 
-- Advanced React patterns and techniques
+- React patterns and techniques
 - GraphQL and Apollo Client
-- Docker and Kubernetes for containerization and orchestration
-- Python and Django framework
+- Docker and Kubernetes for containerization
+- Express Framework
 
 ### 💼 Skills
 
-- **Languages:** JavaScript, HTML, CSS, PHP
-- **Frontend:** React.js, Vite JS React Native, HTML5, CSS, Tailwind CSS, Figma
-- **Backend:** Node.js, Laravel
+- **Languages:** JavaScript, HTML, CSS
+- **Frontend:** React.js, Vite JS, React Native, HTML5, CSS
+- **Backend:** Node.js, Express.js 
 - **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code, Figma, Postman
+- **Tools:** Git, GitHub, VS Code, Figma, Redux, Insomnia
 
 ### 📫 How to reach me
 
