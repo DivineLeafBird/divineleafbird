@@ -1,5 +1,5 @@
 ### Hi there, I am Kassim Yahya! :wave:
-I'm a Junior Software Engineer passionate about building web and mobile applications. My technology stack consists of MongoDB, PostgreSQL, MySQL Express.js, React.js, Node.js, Next.js, React Native, Expo and EAS. I also have experience in IT support and UX design.
+Passionate about building web and mobile applications. My technology stack consists of MongoDB, PostgreSQL, MySQL, Express.js, React.js, Node.js, Next.js, React Native, Expo and EAS. I also have experience in IT support and UX design.
 ### 🔭 I’m currently working on...
 
 - Building responsive web applications with React and Next.js
